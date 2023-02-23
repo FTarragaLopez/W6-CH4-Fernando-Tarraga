@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/FTarragaLopez/W6-CH4-Fernando-Tarraga/issues"
   },
-  "homepage": "https://github.com/FTarragaLopez/W6-CH4-Fernando-Tarraga#readme"
+  "homepage": "https://github.com/FTarragaLopez/W6-CH4-Fernando-Tarraga#readme",
+  "devDependencies": {
+    "@types/jest": "^29.4.0",
+    "@types/node": "^18.14.1",
+    "@typescript-eslint/eslint-plugin": "^5.53.0",
+    "@typescript-eslint/parser": "^5.53.0",
+    "eslint": "^8.34.0",
+    "ts-jest": "^29.0.5",
+    "typescript": "^4.9.5"
+  }
 }
